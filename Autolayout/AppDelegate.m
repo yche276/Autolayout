@@ -3,7 +3,7 @@
 //  Autolayout
 //
 //  Created by Victor Chen on 9/09/13.
-//  Copyright (c) 2013 Kiwa Media. All rights reserved.
+//  Copyright (c) 2013 Mt Zendo. All rights reserved.
 //
 
 #import "AppDelegate.h"
